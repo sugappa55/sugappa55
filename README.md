@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sugappa Kuruba</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sugappa55" alt="sugappa55" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio-ochre-gamma.vercel.app/](https://portfolio-ochre-gamma.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
