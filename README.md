@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <p>Analytical and quickly adaptive aspiring full-stack developer with a specialization in MERN stack. Self-motivated and curious, with a keen interest in the front-end. Looking forward to laying a concrete foundation for his career.<p/>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ochre-gamma.vercel.app/](https://portfolio-ochre-gamma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sugappa.vercel.app/](https://sugappa.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
