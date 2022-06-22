@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugappa55&label=Profile%20views&color=0e75b6&style=flat" alt="sugappa55" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sugappa.vercel.app/](https://sugappa.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sugappa-kuruba-personal-portfolio.vercel.app/](https://sugappa-kuruba-personal-portfolio.vercel.app/)
 
 - 💬 Ask me about **Full Stack Development, MERN Stack**
 
