@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sugappa Kuruba</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  align="right" alt="Coding" width="400"/>
+<div align="center" ><img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" /></div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugappa55&label=Profile%20views&color=0e75b6&style=flat" alt="sugappa55" /> </p>
