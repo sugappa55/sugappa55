@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kurubasugappa@gmail.com**
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/17VhgK-XOwdVxGxRTOTYA_TgBo6QwtYXb/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1NmqLo1pKJbB3dVIoCvYVm0QTNHSRciCS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
