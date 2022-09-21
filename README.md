@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugappa55&label=Profile%20views&color=0e75b6&style=flat" alt="sugappa55" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sugappa-kuruba-personal-portfolio.vercel.app/](https://sugappa-kuruba-personal-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://sugappa-kuruba-personal-portfolio.vercel.app/)
 
 - 💬 Ask me about **Full Stack Development, MERN Stack**
 
 - 📫 How to reach me **kurubasugappa@gmail.com**
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1-7teiV625_bTEFdHRQN-P0fM-lOfll2r/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1V_oyn_0h4ARgRN8Odt_fYdC5GVyACavf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
